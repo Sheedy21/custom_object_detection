@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>resize_000118</filename>
+  <path>C:\Users\MELISSA\Downloads\Experiment_3\images\resize_000118.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>178</width>
+    <height>218</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>55</xmin>
+      <ymin>95</ymin>
+      <xmax>121</xmax>
+      <ymax>164</ymax>
+    </bndbox>
+  </object>
+</annotation>
